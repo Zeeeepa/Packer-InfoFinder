@@ -28,6 +28,7 @@
 
 
 ## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=TFour123/Packer-InfoFinder&type=Date)](https://www.star-history.com/#TFour123/Packer-InfoFinder&Date)
 
 ## 致谢 (Acknowledgments)
