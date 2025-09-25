@@ -85,7 +85,7 @@ graph TD
 1.  克隆本项目到本地:
 
     ```bash
-    git clone https://github.com/your-username/Packer-InfoFinder.git
+    git clone https://github.com/TFour123/Packer-InfoFinder.git
     cd Packer-InfoFinder
     ```
 
@@ -105,9 +105,9 @@ graph TD
     ```
 	
 	
-3.安装deno
+	3.安装deno
 
-	使用powershell使用命令安装 irm https://deno.land/install.ps1 | iex
+		使用powershell使用命令安装 irm https://deno.land/install.ps1 | iex
 	
 
 !!!!!!注: win主机运行cmd使用管理员权限运行，mac主机默认即可。
