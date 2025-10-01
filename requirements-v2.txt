@@ -1,0 +1,48 @@
+# Packer-InfoFinder v2.0 - Enhanced Dependencies
+# Original dependencies
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+deno-vm>=0.1.0
+esprima>=4.0.1
+
+# Advanced JavaScript Analysis Tools
+js-beautify>=1.14.0
+webpack-bundle-analyzer>=4.5.0
+recast>=0.21.0
+babel-parser>=7.18.0
+estree-analyzer>=1.0.0
+bundle-buddy>=0.4.0
+jscpd>=3.5.0
+
+# Performance and Caching
+aiofiles>=0.8.0
+asyncio-throttle>=1.0.2
+memory-profiler>=0.60.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+plotly>=5.10.0
+
+# Code Analysis
+ast-tools>=0.1.0
+complexity>=4.2.0
+radon>=5.1.0
+
+# Utilities
+click>=8.1.0
+rich>=12.5.0
+tqdm>=4.64.0
+colorama>=0.4.5
+
+# Development and Testing
+pytest>=7.1.0
+pytest-asyncio>=0.19.0
+black>=22.6.0
+flake8>=5.0.0
+mypy>=0.971
+
+# Optional: For enhanced decompilation
+# unminify>=0.3.0
+# js-deobfuscator>=1.0.0
