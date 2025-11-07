@@ -115,7 +115,8 @@ graph TD
 		win主机使用powershell使用命令安装 irm https://deno.land/install.ps1 | iex
 	    mac主机 brew install deno  安装deno
 
-!!!!!!注: win主机运行cmd使用管理员权限运行，mac主机默认即可。
+!!!!!!注: (1)  win主机运行cmd使用管理员权限运行，mac主机默认即可。
+		  (2)  代理连接失败问题，可开启代理软件的Tun模式即可
 
 ## 使用说明
 
